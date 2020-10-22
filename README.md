@@ -8,6 +8,11 @@ This tool simplifies the process of finding the corresponding Vestiging when sea
 4. Press the start button on the SD Tool sheet.
 5. Have fun. 
 
+# Shortcuts
+- Alt + Z = Zoeken
+- Alt + A = Annuleren
+- Alt + V = Velden legen
+- Alt + E = Email versturen
 
 # How-to change data
 Changes to the data (e.g. KC, TC) are only possible on the Klanten sheet and not on the individual vestiging sheets. 
