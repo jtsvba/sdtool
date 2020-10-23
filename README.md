@@ -18,5 +18,5 @@ This tool simplifies the process of finding the corresponding Vestiging when sea
 Changes to the data (e.g. KC, TC) are only possible on the Klanten sheet and not on the individual vestiging sheets. 
 Therefore these changes need to be made on that sheet. All other information such as opmerkingen and derde partijen can be filled in on your vestiging-specific sheet. 
 
-Note: in case you want to modify KC/TC info only, there is no need to open the file in app (online will also do). 
+The file must be openend in app at all times!
 
