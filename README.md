@@ -13,6 +13,7 @@ This tool simplifies the process of finding the corresponding Vestiging when sea
 - Alt + A = Annuleren
 - Alt + V = Velden legen
 - Alt + E = Email versturen
+- Alt + W = Wijzigingsmodus
 
 # How-to change data
 Changes to the data (e.g. KC, TC) are only possible on the Klanten sheet and not on the individual vestiging sheets. 
